@@ -1,1 +1,1 @@
-# odin-recipes
+Using all the HTML the knowledge I've acquired. I will build a basic recipe website. The website will consist of a main index.html with a few recipes.
