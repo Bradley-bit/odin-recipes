@@ -28,3 +28,8 @@ h1 {
     text-decoration: none;
     color: black
 }
+
+.image img {
+    border-radius: 11px;
+    margin-bottom: 10px;
+}
