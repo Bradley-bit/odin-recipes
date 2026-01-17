@@ -4,7 +4,7 @@
 }
 
 body {
-    width: 800px;
+    width: 500px;
     margin: 0 auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -15,16 +15,16 @@ h1 {
     text-align: center;
 }
 
-ul {
+.links ul {
     list-style: none;
 }
 
-li {
+.links li {
     text-align: center;
     padding: 10px;
 }
 
-li a {
+.links li a {
     text-decoration: none;
     color: black
 }
